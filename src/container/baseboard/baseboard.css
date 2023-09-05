@@ -1,0 +1,42 @@
+.singlebox input[type="tel"] {
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  box-shadow: none;
+  border: 0.2px solid black;
+  border-radius: none;
+  font-weight: bold;
+  margin: 1px;
+}
+.singlebox input[type="tel"]:focus,
+.singlebox input[type="tel"]:active {
+  outline: 0 none;
+}
+.singlebox {
+  display: table-row;
+}
+.totalBox {
+  padding: 1px;
+  margin: 2px;
+  height: 100px;
+  width: 100px;
+}
+
+@media only screen and (max-width: 450px) {
+  .totalBox {
+    padding: 1px;
+    margin: 2px;
+    height: 80px;
+    width: 80px;
+  }
+  .singlebox input[type="tel"] {
+    height: 24px;
+    width: 24px;
+    text-align: center;
+    box-shadow: none;
+    border: 0.2px solid black;
+    border-radius: none;
+    font-weight: bold;
+    margin: 1px;
+  }
+}

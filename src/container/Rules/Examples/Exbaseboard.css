@@ -1,0 +1,23 @@
+.exsinglebox input[type="tel"] {
+  height: 20px;
+  width: 20px;
+  text-align: center;
+  box-shadow: none;
+  border: 0.2px solid black;
+  border-radius: none;
+  font-weight: bold;
+  margin: 1px;
+}
+.exsinglebox input[type="tel"]:focus,
+.exsinglebox input[type="tel"]:active {
+  outline: 0 none;
+}
+.exsinglebox {
+  display: table-row;
+}
+.extotalBox {
+  padding: 1px;
+  margin: 2px;
+  height: 70px;
+  width: 70px;
+}

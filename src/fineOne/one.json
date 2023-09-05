@@ -1,0 +1,29 @@
+{
+  "correct": [
+    "Cool!, You guessed it correctly",
+    "You found it right!!!",
+    "Well, This looks good"
+  ],
+  "wrong": [
+    "Oh You didn't see that right!",
+    "We should look closer next time",
+    "This is invalid"
+  ],
+  "maybeRight": [
+    "You are closer to make this correct!",
+    "This should be the right value!",
+    "Feels like this is placed right!"
+  ],
+  "maybeWrong": [
+    "Well, this may be correct but let's try other!",
+    "Cool, You should try others and find!",
+    "Hmmm, Let's try next position!",
+    "Okay! You maybe right!",
+    "Huh! That should be fine!",
+    "Well, You should try others too!",
+    "Trail and Error is what we are doing!",
+    "Let's try more!",
+    "You may be right, but let's try others too",
+    "Well, You may or maynot be true"
+  ]
+}
