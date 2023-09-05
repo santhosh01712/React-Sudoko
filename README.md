@@ -5,8 +5,6 @@ bored or struck, we can get help to solve the puzzle from assistance.
 Sudoku is a captivating number puzzle game played on a 9x9 grid, where the challenge lies in filling each row, column, and 3x3 region with the numbers 1 through 9, without repetition. This game offers a delightful blend of logic, strategy, and mental acuity. Sudoku puzzles come in various difficulty levels, making it accessible to beginners and Sudoku aficionados alike. Its rules are simple yet engrossing, fostering improved concentration and problem-solving skills. Sudoku has found a place in newspapers, books, and digital platforms, with dedicated apps and software to generate puzzles and assist players. Enthusiasts can even compete in Sudoku championships worldwide, showcasing their speed and precision in solving puzzles. With intriguing variations to explore, Sudoku continues to be a beloved pastime, offering both relaxation and a stimulating mental workout.
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
