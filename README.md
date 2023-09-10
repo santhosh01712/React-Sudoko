@@ -10,7 +10,7 @@ Sudoku has found a place in newspapers, books, and digital platforms, with dedic
 
 
 ## Tech stack
-- **Framewoek:** React (18.0.0)
+- **Framework:** React (18.0.0)
 - **Store:**  Redux Thunk (2.4.1)
 - **Style:** Bootstrap (5.1.3)
 - **Request handler:** Axios (0.26.1)
